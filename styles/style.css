@@ -1,0 +1,75 @@
+h1:hover {
+      color: blue
+    }
+    a:visited {
+      text-decoration: none;
+    }
+    header {
+      width: 75%;
+      margin: auto;
+    }
+    article {
+      width: 50%;
+      margin: auto;
+    } 
+    
+    footer{
+      border: 3px solid red;
+      border-radius: 20px;
+      
+      
+/*
+      border-width:  1px;
+      border-style: solid;
+      border-color: red;
+*/
+    }
+    
+/*
+    
+    body{
+      background-color: aqua;
+    }
+    
+    h1{
+      color: red    
+    }
+    
+    img {
+      width: 60%;
+      height: auto;
+    }
+    nav{
+      background-color: aquamarine;
+    }
+    
+    #main {
+      color: grey;
+    }
+    
+    .highlight {
+      color: yellow;
+    }
+    
+    aside p {
+      background-color: green;
+    }
+    
+    
+    a {
+      text-decoration: line-through;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+      font-size: 1.5em;
+    }
+    
+    p::first-letter {
+      font-size: 2em;
+      color: antiquewhite;
+    }
+    
+*/
+  
+  
